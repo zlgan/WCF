@@ -1,0 +1,4 @@
+E:\02study\02code\WCF\WCFDemo\WCFDemo\bin\WCFDemo.dll
+E:\02study\02code\WCF\WCFDemo\WCFDemo\bin\WCFDemo.pdb
+E:\02study\02code\WCF\WCFDemo\WCFDemo\obj\Debug\WCFDemo.dll
+E:\02study\02code\WCF\WCFDemo\WCFDemo\obj\Debug\WCFDemo.pdb

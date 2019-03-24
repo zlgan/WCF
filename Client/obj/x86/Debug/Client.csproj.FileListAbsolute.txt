@@ -1,0 +1,5 @@
+E:\02study\02code\WCF\WCFDemo\Client\bin\Debug\Client.exe.config
+E:\02study\02code\WCF\WCFDemo\Client\bin\Debug\Client.exe
+E:\02study\02code\WCF\WCFDemo\Client\bin\Debug\Client.pdb
+E:\02study\02code\WCF\WCFDemo\Client\obj\x86\Debug\Client.exe
+E:\02study\02code\WCF\WCFDemo\Client\obj\x86\Debug\Client.pdb
